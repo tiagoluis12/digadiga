@@ -1,1 +1,1 @@
-# digadiga
+# Diga Diga Landing Page Project
